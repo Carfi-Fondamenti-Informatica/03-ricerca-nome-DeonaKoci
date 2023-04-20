@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int main() {
     char lista_nomi[3][5]={"","",""};
     char nome[5] = {""};
